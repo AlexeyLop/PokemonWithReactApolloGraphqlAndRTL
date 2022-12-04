@@ -44,3 +44,5 @@ Example
 ```
 
 - React Testing Library  @testing-library/react
+
+Disclaimer: Original tutorial without tests and with old usage of Apollo CLient https://www.youtube.com/watch?v=yKFoAF7J0mc 
